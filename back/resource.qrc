@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/智能机器人.png</file>
+        <file>icon/user.png</file>
+        <file>icon/钥匙.png</file>
+        <file>icon/手铃.png</file>
+        <file>icon/水滴.png</file>
+        <file>icon/温度计.png</file>
+        <file>icon/阳光.png</file>
+        <file>icon/login.jpeg</file>
+        <file>icon/灯泡.png</file>
+        <file>icon/风扇.png</file>
+        <file>icon/空间站.jpeg</file>
+        <file>icon/麦克风.png</file>
+    </qresource>
+</RCC>

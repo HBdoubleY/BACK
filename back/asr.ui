@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ASR</class>
+ <widget class="QMainWindow" name="ASR">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>300</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ASR</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>200</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { 
+font-size:100px; 
+color:yellow; 
+border-radius:50px; 
+background-color:rgba(0,255,0,200); 
+}
+
+QPushButton:hover { 
+font-size:100px;
+color:green;
+border-radius:50px;
+background-color:rgba(255,255,0,200); 
+}
+QPushButton:pressed { 
+font-size:100px; 
+color:green;
+border-radius:50px;
+background-color:rgba(255,255,0,200)
+}</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
